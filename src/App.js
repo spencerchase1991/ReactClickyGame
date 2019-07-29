@@ -93,7 +93,7 @@ class App extends Component {
           Brilliant, you haven't clicked on duplicates!
           </div>
         <Scoreboard
-          title="MoMA clicky Game"
+          title="Top Albums of the 1980's clicky Game"
           score={this.state.score}
           topScore={this.state.topScore}
         />
