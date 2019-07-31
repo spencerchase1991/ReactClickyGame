@@ -15,154 +15,154 @@
     },
     {
       "id": 3,
-      "image": "./assets/images/48.jpg",
+      "image": "/assets/images/48.jpg",
       "artist": "Heart",
       "title": "Heart",
       "year": "1985"
     },
     {
       "id": 4,
-      "image": "./assets/images/47.jpg",
+      "image": "/assets/images/47.jpg",
       "artist": "Bruce Springsteen",
       "title": "Born In The USA",
       "year": "1984"
     },
     {
       "id": 5,
-      "image": "./assets/images/46.jpg",
+      "image": "/assets/images/46.jpg",
       "artist": "Van Halen",
       "title": "5150",
       "year": "1986"
     },
     {
       "id": 6,
-      "image": "./assets/images/45.png",
+      "image": "/assets/images/45.png",
       "artist": "Queen",
       "title": "The Miracle",
       "year": "1989"
     },
     {
       "id": 7,
-      "image": "./assets/images/44.jpg",
+      "image": "/assets/images/44.jpg",
       "artist": "Judas Priest",
       "title": "Defenders Of The Faith",
       "year": "1984"
     },
     {
       "id": 8,
-      "image": "./assets/images/43.jpg",
+      "image": "/assets/images/43.jpg",
       "artist": "Journey",
       "title": "Escape",
       "year": "1981"
     },
     {
       "id": 9,
-      "image": "./assets/images/42.jpg",
+      "image": "/assets/images/42.jpg",
       "artist": "Bon Jovi",
       "title": "New Jersey",
       "year": "1988"
     },
     {
       "id": 10,
-      "image": "./assets/images/41.jpg",
+      "image": "/assets/images/41.jpg",
       "artist": "The Scorpions",
       "title": "Love At First Sting",
       "year": "1984"
     },
     {
       "id": 11,
-      "image": "./assets/images/40.jpg",
+      "image": "/assets/images/40.jpg",
       "artist": "Prince & The Revolution",
       "title": "Purple Rain",
       "year": "1984"
     },
     {
       "id": 12,
-      "image": "./assets/images/39.jpg",
+      "image": "/assets/images/39.jpg",
       "artist": "Slayer",
       "title": "South Of Heaven ",
       "year": "1988"
     },
     {
       "id": 13,
-      "image": "./assets/images/38.jpg",
+      "image": "/assets/images/38.jpg",
       "artist": "Mötley Crüe",
       "title": "Dr Feelgood",
       "year": "1989"
     },
     {
       "id": 14,
-      "image": "./assets/images/37.jpg",
+      "image": "/assets/images/37.jpg",
       "artist": "Ozzy Osbourne",
       "title": "Bark At The Moon",
       "year": "1983"
     },
     {
       "id": 15,
-      "image": "./assets/images/36.jpg",
+      "image": "/assets/images/36.jpg",
       "artist": "Kate Bush",
       "title": "Hounds Of Love ",
       "year": "1985"
     },
     {
       "id": 16,
-      "image": "./assets/images/35.jpg",
+      "image": "/assets/images/35.jpg",
       "artist": "Skid Row",
       "title": "Skid Row",
       "year": "1989"
     },
     {
       "id": 17,
-      "image": "./assets/images/34.jpg",
+      "image": "/assets/images/34.jpg",
       "artist": "ZZ Top",
       "title": "Eliminator",
       "year": "1983"
     },
     {
       "id": 18,
-      "image": "./assets/images/33.jpg",
+      "image": "/assets/images/33.jpg",
       "artist": "Mötley Crüe",
       "title": "Shout At The Devil",
       "year": "1983 "
     },
     {
       "id": 19,
-      "image": "./assets/images/32.jpg",
+      "image": "/assets/images/32.jpg",
       "artist": "Ozzy Osbourne",
       "title": "Diary Of A Madman",
       "year": "1981"
     },
     {
       "id": 20,
-      "image": "./assets/images/31.jpg",
+      "image": "/assets/images/31.jpg",
       "artist": "Faith No More",
       "title": "The Real Thing",
       "year": "1989"
     },
     {
       "id": 21,
-      "image": "./assets/images/30.jpg",
+      "image": "/assets/images/30.jpg",
       "artist": "Dire Straits",
       "title": "Brothers In Arms",
       "year": "1985"
     },
     {
       "id": 22,
-      "image": "./assets/images/29.jpg",
+      "image": "/assets/images/29.jpg",
       "artist": "Rush",
       "title": "Signals",
       "year": "1982"
     },
     {
       "id": 23,
-      "image": "./assets/images/28.jpg",
+      "image": "/assets/images/28.jpg",
       "artist": "Judas Priest",
       "title": "Screaming For Vengeance",
       "year": "1982"
     },
     {
       "id": 24,
-      "image": "./assets/images/27.jpg",
+      "image": "/assets/images/27.jpg",
       "artist": "Def Leppard",
       "title": "Pyromania ",
       "year": "1983"
